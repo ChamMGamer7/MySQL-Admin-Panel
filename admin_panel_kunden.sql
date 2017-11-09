@@ -1,4 +1,3 @@
-CREATE DATABASE  IF NOT EXISTS `admin_panel` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `admin_panel`;
 -- MySQL dump 10.13  Distrib 5.7.17, for Win64 (x86_64)
 --
